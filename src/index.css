@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.btn1{
+  margin-top: 10px;
+}.nav{
+  background-color:lightgray !important;
+}.searchBar{
+  color: black;
+  margin-top: 5px;
+  margin-left: 250px;
+  text-align: center;
+  border: 2px solid black;
+}.searchProduct{
+  color: black;
+
+  border: 2px solid black;
+} */
+
+

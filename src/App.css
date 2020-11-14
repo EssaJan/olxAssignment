@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,189 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* body{
+  font-size: 14px;
 }
+h1,h2,h3,h4,h5,h6{margin: 0px;padding: 0px;font-weight: normal;}
+
+.fixed{position: fixed;}
+.rel{position: relative;}
+.abs{position:absolute;}
+.sticky{position: sticky;}
+input,button, select, textarea{outline: none;}
+button{cursor: pointer;}
+ 
+.flex{display: flex;}
+.aic{align-items: center;}
+.bl{display: block;}
+.ibl{display: in-block;}
+
+.placeholder{
+  background: #ccc;
+  animation: 1s infinite linear;
+}
+@keyframes placeholder{
+  0%{opacity: 0.5;}
+  100%{opacity: 1;}
+}
+
+.font{
+  font-weight: normal;
+  font-family: 'Open Sans', sans-serif;
+}.fontl{
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+}.fontb{
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+}.b{font-weight: bold;}
+.s12{font-size: 12px;}
+.s13{font-size: 13px;}
+.s14{font-size: 14px;}
+.s15{font-size: 15px;}
+.s16{font-size: 16px;}
+.s18{font-size: 18px;}
+.s20{font-size: 20px;}
+.s22{font-size: 22px;}
+.s24{font-size: 24px;}
+.s30{font-size: 30px;}
+
+.noul{text-decoration: none;}
+.noulh:hover{text-decoration: underline;}
+.color{color:#002f34;}
+.header{
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 70px;
+  z-index: 9;
+  padding: 0px 10%;
+  background-color: #f1f1f1;
+  box-shadow: 0px 2px 2px #dadada;
+ 
+}
+.header .logo{
+  width: 50px;
+  margin-right: 20px;
+}
+
+
+.header .logo img{
+  width: 60px;
+}
+.icondd img{
+  width: 100px;
+
+}
+
+.header .location{
+  background: #fff;
+  border: 2px solid #002f34;
+  border-radius: 5px;
+}
+.header .location .ico{
+  padding: 10px;
+}
+.header .location .label{
+  flex: 1;
+  padding: 10px;
+  border: 0px;
+}
+.header .location .arrow{
+  flex: 1;
+  padding: 10px;
+  border: 0px;
+  background: #fff;
+}
+
+.header .search{
+  background: #fff;
+  border: 2px solid #002f34;
+  border-radius: 5px;
+  flex: 2;
+  margin: 0px 20px;
+}
+.header .search .query{
+  flex: 1;
+  padding: 10px;
+  border: 0px;
+}
+.header .search.go{
+  flex: 1;
+  padding: 10px;
+  border: 0px;
+  background: #002f34;
+  max-width: 50px;
+
+}
+.header .search.go :hover{}
+
+.header .actions{
+  flex: 1;
+  max-width: 200px;
+  align-items: flex-end;
+  justify-self: flex-end;
+}
+.header .actions #lgn{
+
+  margin: 0px 20px 10px 0px;
+}
+
+.header .actions .sell{
+  padding: 8px 20px;
+  border: 3px solid #ffa500;
+  color: #002f34;
+  border-radius: 30px;
+  box-shadow: 0px 3px 5px #a9a9a9;
+}
+header .actions .sell .ico{
+  margin-right: 6px;
+}
+.header .actions.sell:hover{}
+
+
+.cff{color: #ffffff;}
+
+.hnav{
+  top: 70px;
+  left: 0px;
+  right: 0px;
+  height: 50px;
+  z-index: 8;
+  padding: 0px 9%;
+  background: #fff;
+  box-shadow: 0px 2px 2px rgb(218 218 218 / 36%);
+  
+ 
+}
+.hnav .view-cates{
+  border: 0px;
+  padding: 10px 15px;
+  background: rgba(0,0,0,0);
+}
+.hnav .view-cates .arrow{
+  padding: 3px 10px;
+  border: 0;
+  background-color: #000;
+  margin-left: 10px;
+}
+.hnav .view-cates:hover{
+  background: #f1f1f1;
+}
+.hnav a{
+  padding: 17px;
+  margin-right: 2px;
+}
+.ad-item{}
+.ad-item .poster{}
+.ad-item .poster .placeholder{}
+.ad-item  .title{}
+.ad-item  .title .placeholder{}
+.ad-item  .tagline{}
+.ad-item  .tagline .placeholder{}
+.ad-item  .ftr{}
+.ad-item  .ftr .location{}
+.ad-item  .ftr .location .placeholder{}
+.ad-item  .ftr .stamp{}
+.ad-item  .ftr .stamp .placeholder{} */
